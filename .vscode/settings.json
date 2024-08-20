@@ -1,9 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "2D Arrays",
-        "Arrays",
-        "Basic Conditionals",
-        "OOP"
+        "Random-Practice",
+        "Codechum-Java-1"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true
 }
